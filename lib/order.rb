@@ -22,7 +22,6 @@ class Order
 
   def total_order
     number = 2
-    # number = gets.chomp.to_i
     number.times {dish_order}
   end
 

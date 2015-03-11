@@ -1,11 +1,14 @@
-#Takeaway Challenge#
+# Spike Takeaway
 
-##Instructions##
+## Introduction
 
-Challenge time: Friday, the entire day + the weekend if you need it
-Feel free to use google, your notes, books, etc but work on your own
+TopDown is typically BreadthFirst, but a Spike is DepthFirst. From the top to the bottom, then CloseTheLoop. So-called because a spike is "end to end, but very thin", like driving a spike all the way through a log.
 
-##Task##
+This repository is a spike version of my attempt to Makers Academy's Takeaway challenge. A fully functional TDD version can be found at [Takeaway].
+
+[Takeaway]: https://github.com/jindai1783/Takeaway
+
+## Task
 
 * Write a Takeaway program.
 * Implement the following functionality:
